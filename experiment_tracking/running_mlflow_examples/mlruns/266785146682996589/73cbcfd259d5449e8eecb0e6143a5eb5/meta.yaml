@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mokon/Documents/Mlops-Zoomcamp/experiment_tracking/running_mlflow_examples/mlruns/266785146682996589/73cbcfd259d5449e8eecb0e6143a5eb5/artifacts
+end_time: 1747766003548
+entry_point_name: ''
+experiment_id: '266785146682996589'
+lifecycle_stage: active
+run_id: 73cbcfd259d5449e8eecb0e6143a5eb5
+run_name: aged-shrimp-87
+run_uuid: 73cbcfd259d5449e8eecb0e6143a5eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747765985514
+status: 3
+tags: []
+user_id: mokon
