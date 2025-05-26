@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mokon/Documents/Mlops-Zoomcamp/Homework_2/mlruns/247158568816971784/e24a744fe366450d86b52ebae38476ff/artifacts
+end_time: 1748021181600
+entry_point_name: ''
+experiment_id: '247158568816971784'
+lifecycle_stage: active
+run_id: e24a744fe366450d86b52ebae38476ff
+run_name: nervous-snipe-734
+run_uuid: e24a744fe366450d86b52ebae38476ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748021147957
+status: 4
+tags: []
+user_id: mokon

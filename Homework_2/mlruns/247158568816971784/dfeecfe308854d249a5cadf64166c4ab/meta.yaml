@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mokon/Documents/Mlops-Zoomcamp/Homework_2/mlruns/247158568816971784/dfeecfe308854d249a5cadf64166c4ab/artifacts
+end_time: 1748017935999
+entry_point_name: ''
+experiment_id: '247158568816971784'
+lifecycle_stage: active
+run_id: dfeecfe308854d249a5cadf64166c4ab
+run_name: debonair-steed-750
+run_uuid: dfeecfe308854d249a5cadf64166c4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748017899701
+status: 4
+tags: []
+user_id: mokon

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mokon/Documents/Mlops-Zoomcamp/Homework_2/mlruns/247158568816971784/3091401d23a34e5b93ba69fcf9cf0918/artifacts
+end_time: 1748017520242
+entry_point_name: ''
+experiment_id: '247158568816971784'
+lifecycle_stage: active
+run_id: 3091401d23a34e5b93ba69fcf9cf0918
+run_name: overjoyed-vole-850
+run_uuid: 3091401d23a34e5b93ba69fcf9cf0918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748017520181
+status: 4
+tags: []
+user_id: mokon

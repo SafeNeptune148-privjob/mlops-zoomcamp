@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mokon/Documents/Mlops-Zoomcamp/Homework_2/mlruns/247158568816971784/a41ba0b9b1704da3b0bc3aeebb48dc90/artifacts
+end_time: 1748017229943
+entry_point_name: ''
+experiment_id: '247158568816971784'
+lifecycle_stage: active
+run_id: a41ba0b9b1704da3b0bc3aeebb48dc90
+run_name: calm-elk-431
+run_uuid: a41ba0b9b1704da3b0bc3aeebb48dc90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748017229851
+status: 4
+tags: []
+user_id: mokon
