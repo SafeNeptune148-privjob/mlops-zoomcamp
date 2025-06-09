@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785480266524284082/aa9c11a0fb0b497eb5552d1c2672e9ed/artifacts
+end_time: 1749076232256
+entry_point_name: ''
+experiment_id: '785480266524284082'
+lifecycle_stage: active
+run_id: aa9c11a0fb0b497eb5552d1c2672e9ed
+run_name: powerful-vole-661
+run_uuid: aa9c11a0fb0b497eb5552d1c2672e9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749076105683
+status: 3
+tags: []
+user_id: mokon

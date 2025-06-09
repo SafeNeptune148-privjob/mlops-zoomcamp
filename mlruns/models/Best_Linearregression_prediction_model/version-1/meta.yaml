@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749077376834
+current_stage: None
+description: ''
+last_updated_timestamp: 1749077376834
+name: Best_Linearregression_prediction_model
+run_id: aa9c11a0fb0b497eb5552d1c2672e9ed
+run_link: ''
+source: mlflow-artifacts:/785480266524284082/aa9c11a0fb0b497eb5552d1c2672e9ed/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/785480266524284082/aa9c11a0fb0b497eb5552d1c2672e9ed/artifacts/model
+user_id: null
+version: 1
