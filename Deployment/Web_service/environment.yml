@@ -1,0 +1,11 @@
+name: dep_webService
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - flask
+  - scikit-learn=1.0.2
+  - requests
+  - pip:
+      - gunicorn
+prefix: C:\Users\mokon\Documents\Anaconda\envs\dep_webService
